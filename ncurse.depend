@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1695636451 source:/home/bm301023/projet/ncurse/ncurse/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+
+1696845318 source:/home/bm301023/ncurse/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+
+1696844489 source:/home/bm301023/ncurse/tools.c
+
+1701277178 source:/home/bm301023/ncurse/ncurse/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	"tools.h"
+
+1701282063 source:/home/bm301023/ncurse/ncurse/jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	<time.h>
+	"tools.h"
+	<unistd.h>
+	<pthread.h>
+
+1701281843 /home/bm301023/ncurse/ncurse/tools.h
+	<ncurses.h>
+
+1701270878 source:/home/bm301023/ncurse/ncurse/menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	"tools.h"
+
+1701281853 source:/home/bm301023/ncurse/ncurse/fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	"tools.h"
+	<time.h>
+
+1700672444 source:/home/bm301023/ncurse/ncurse/chrono.c
+	<stdio.h>
+	<unistd.h>
+	<pthread.h>
+	"tools.h"
+
